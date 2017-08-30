@@ -1,0 +1,26 @@
+{
+  "name": "fis3-postpackager-static-uri",
+  "version": "0.1.0",
+  "description": "生成站点必要静态文件uri资源地址列表",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackie4/fis3-postpackager-static-uri.git"
+  },
+  "keywords": [
+    "fis3",
+    "pack",
+    "uri"
+  ],
+  "author": "BinoYip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackie4/fis3-postpackager-static-uri/issues"
+  },
+  "homepage": "https://github.com/blackie4/fis3-postpackager-static-uri"
+}
